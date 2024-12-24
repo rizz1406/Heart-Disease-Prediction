@@ -71,7 +71,7 @@ The dataset used in this project contains various health-related features of pat
    ```bash
    git clone https://github.com/rizz1406/Heart-Disease-Prediction.git
 
-   Classification Report:
+Classification Report:
               precision    recall  f1-score   support
           0       0.87      0.91      0.89       109
           1       0.81      0.74      0.77        61
