@@ -2,9 +2,9 @@
 
 
 This is a machine learning project that predicts whether a patient is at risk of heart disease based on various medical features. The model uses a dataset to classify patients into two categories: having heart disease or not.
+
+
 ![image](https://github.com/user-attachments/assets/f848a274-141a-4598-ac01-a25b13ec155a)
-
-
 ## Table of Contents
 1. [Project Description](#project-description)
 2. [Technologies Used](#technologies-used)
