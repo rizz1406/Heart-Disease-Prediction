@@ -69,4 +69,4 @@ The dataset used in this project contains various health-related features of pat
 
 1. Clone the repository to your local machine:
    ```bash
-   git clone https://github.com/your-username/Heart-Disease-Prediction.git
+   git clone https://github.com/rizz1406/Heart-Disease-Prediction.git
