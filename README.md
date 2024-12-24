@@ -70,3 +70,16 @@ The dataset used in this project contains various health-related features of pat
 1. Clone the repository to your local machine:
    ```bash
    git clone https://github.com/rizz1406/Heart-Disease-Prediction.git
+
+##License
+
+### How to Add the README to Your GitHub Repository
+
+1. In your project directory, create a file named **README.md**.
+2. Paste the above content into the file.
+3. Commit and push it to your GitHub repository.
+
+```bash
+git add README.md
+git commit -m "Add README for Heart Disease Prediction project"
+git push
