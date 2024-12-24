@@ -1,4 +1,5 @@
-# Heart Disease Prediction
+# Heart Disease Prediction![Uploading image.png…]()
+
 
 This is a machine learning project that predicts whether a patient is at risk of heart disease based on various medical features. The model uses a dataset to classify patients into two categories: having heart disease or not.
 
